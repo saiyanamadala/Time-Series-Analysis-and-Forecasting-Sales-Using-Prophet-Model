@@ -4,7 +4,6 @@ Project Description:
 
 The Time Series Analysis and Sales Forecasting project involved the comprehensive examination of sales data using the Prophet model. The primary objective was to predict future sales trends and identify key factors influencing sales performance over time.
 
-Key Components:
 
 1. Data Transformation:
    Transformed raw sales data into a structured format suitable for analysis, ensuring data accuracy and consistency. Utilized preprocessing techniques to handle missing values and standardize data formats.
